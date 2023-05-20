@@ -2,7 +2,7 @@
 Proyecto de vc sobre  deteccion y reconocimiento facial del jugador Zlatan Ibrahimovic.
 
 ### Requisitos para realizar el proyecto:
-Para el modelo pre-entrenado hemos utilizado el archivo: 'frozen_inference_graph_face.pb'
+Para el modelo pre-entrenado hemos utilizado el archivo: 'frozen_inference_graph_face.pb'.
 Para el modelo pre-entrenado hemos utilizado el archivo: 'haarcascade_frontalface_default.xml'
 
 ### Datos
